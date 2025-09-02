@@ -3,15 +3,23 @@
 
 ---
 
-### Espressif IoT Development Framework **(ESP-IDF)**
-ESP-IDF Release **v5.5.1**
+> Espressif IoT Development Framework **(ESP-IDF)**
 
-> ESP IDE (Eclipse Plugin)
+>> - ESP-IDF Release **v5.5.1**
+
+> ESP **IDE** (Eclipse Plugin)
 
 ---
 
 The device (board) used is:
-Lilygo T QT PRO S3 with 4 MB Flash and 2 MB PSRAM.
+
+> Lilygo T QT PRO S3 
+
+with 
+
+- 4 MB Flash
+
+- 2 MB PSRAM
 
 ---
 
