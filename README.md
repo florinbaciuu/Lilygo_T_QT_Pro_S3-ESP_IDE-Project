@@ -1,5 +1,9 @@
-# PERSONAL PROJECT
-### TEMPLATE
+## PERSONAL PROJECT
+---
+### ESP IDF
+---
+#### ESP IDE (Eclipse Plugin)
+---
 The device (board) used is:
 Lilygo T QT PRO S3 with 4 MB Flash and 2 MB PSRAM.
 
