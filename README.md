@@ -1,11 +1,12 @@
-# PROJECT #
-#### PERSONAL ####
+# PROJECT
+#### PERSONAL
 
 ---
 
-### ESP IDF ###
+### Espressif IoT Development Framework **(ESP-IDF)**
+ESP-IDF Release **v5.5.1**
 
-#### ESP IDE (Eclipse Plugin)
+> ESP IDE (Eclipse Plugin)
 
 ---
 
